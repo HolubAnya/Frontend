@@ -1,0 +1,58 @@
+container						
+###################################
+	container__header			
+		header	
+			container__fixed				
+				header__logo
+					logo
+						logo__link	
+			****************
+				header__menu
+					menu
+						menu__item
+							menu__link
+			****************
+				header__socials
+					socials
+						socials__item
+							socials__link
+###################################
+	container__banner
+		banner
+			banner__slogan
+			banner__aim
+			banner__btn
+###################################
+	container__cakes container__fixed
+		cakes__col
+			heading
+			description
+			text
+			chef__position
+			container__chef
+				chef-name
+				chef-photo
+				chef-surname
+			quotation
+		cakes__col
+			cotainer__cakes-photo
+				cakes-photo
+###################################		
+	container__pancakes container__fixed
+		pancakes__col
+			pancakes-picture
+		pancakes__col
+			heading
+			description
+			text
+			slider
+				round-photo
+				round-photo
+				round-photo
+###################################	
+	container__breakfast
+		breakfast
+	container__sandwich
+		sandwich
+	container__footer
+		footer
